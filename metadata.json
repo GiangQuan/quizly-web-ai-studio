@@ -1,0 +1,5 @@
+{
+  "name": "Quizly",
+  "description": "An AI-powered quiz platform where you can create, take, and share quizzes. Features Gemini Thinking for deep quiz generation and Nano Banana Pro for image creation.",
+  "requestFramePermissions": []
+}
